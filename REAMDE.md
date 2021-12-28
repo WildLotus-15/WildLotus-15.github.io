@@ -1,1 +1,0 @@
-Using GitHub Pages to host personal project pages from a GitHub repository.
